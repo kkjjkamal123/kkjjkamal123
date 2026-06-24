@@ -12,7 +12,6 @@
 ### 🚀 About me
 
 - 🛰️ &nbsp;**Thermal Engineer @ ULOG3** — R&D on thermal management & battery systems for **CubeSat** platforms
-- 🚆 &nbsp;**Ex-intern @ Chennai Metro Rail** — embedded control systems (door modules, pantographs, diagnostics)
 - 🛩️ &nbsp;Building a **rocket** from airframe to telemetry, plus real-time **road-anomaly detection** (ARM Bharath Challenge 2026)
 - 🏆 &nbsp;**4× hackathon wins** — 1st @ AIcon24 (₹15k) · 1st & 3rd @ Camri · Top 40 Lam Research · Top 8 AMD Slingshot
 - 🎓 &nbsp;B.E. Electronics & Communication @ **Chennai Institute of Technology**
