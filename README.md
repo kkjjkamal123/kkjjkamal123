@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython" />
   <img src="https://img.shields.io/badge/Mission%20Planner-1F4E79?style=for-the-badge" alt="Mission Planner" />
   <img src="https://img.shields.io/badge/QGroundControl-2B3A67?style=for-the-badge" alt="QGroundControl" />
-  <img src="https://img.shields.io/badge/MAVLink-2C3E50?style=for-the-badge" alt="Drones" />
+  <img src="https://img.shields.io/badge/Drones-2C3E50?style=for-the-badge" alt="Drones" />
 </p>
 
 <p align="center"><b>Design &amp; Simulation</b></p>
