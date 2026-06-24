@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2d7ff9,100:6366f1&text=Kamalesh%20VS&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=builder%20%E2%80%94%20I%20make%20things%20that%20sense,%20move%20%26%20fly&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Kamalesh VS" />
-
 <a href="https://github.com/kkjjkamal123">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=700&color=2D7FF9&center=true&vCenter=true&width=720&lines=Embedded+Systems+%E2%80%A2+Computer+Vision;Artificial+Intelligence+%E2%80%A2+Robotics;Aerospace+%E2%80%94+airframe+to+telemetry;Code+that+survives+contact+with+reality" alt="What I do" />
 </a>
@@ -19,10 +17,10 @@
 A builder working at the intersection of **hardware and software**. I design embedded systems, train computer-vision models, and ship AI tools that solve real problems — then I make them survive contact with the physical world.
 
 - 🛰️ **Building now:** a rocket from **airframe to telemetry** — flight dynamics, BMS, live sensors
-- 👁️ **Recent win:** real-time road-anomaly detection on a **Raspberry Pi 5** — `43.6 FPS · mAP50 0.982`
+- 👁️ **Recent Project:** real-time road-anomaly detection on a **Raspberry Pi 5** — `43.6 FPS · mAP50 0.982`
 - 📆 **Shipping:** **[DailyTrack](https://github.com/kkjjkamal123/Complete-Habit-Tracker)** — a cross-platform, local-first daily tracker (Android · Windows · Linux · Web)
 - 💡 I like problems that touch the real world — where code has to survive reality
-- 📫 Reach me: **vishnuvardhanks113@gmail.com**
+- 📫 Reach me: **kkjjkamal123@gmail.com**
 
 ---
 
