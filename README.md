@@ -15,7 +15,7 @@
 - 👁️ &nbsp;Recent win: real-time road-anomaly detection on a **Raspberry Pi 5** — `43.6 FPS · mAP50 0.982`
 - 📆 &nbsp;Shipping **[DailyTrack](https://github.com/kkjjkamal123/Complete-Habit-Tracker)** — a local-first tracker for Android · Windows · Linux · Web
 - 💬 &nbsp;Ask me about **embedded systems, computer vision, AI &amp; aerospace**
-- 📫 &nbsp;Reach me at **vishnuvardhanks113@gmail.com**
+- 📫 &nbsp;Reach me at **kkjjkamal123@gmail.com**
 - ⚡ &nbsp;Fun fact: I like problems that touch the real world, where code has to survive reality
 
 ---
@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/kkjjkamal123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/kkjjkamal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vishnuvardhanks113@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kkjjkamal123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
