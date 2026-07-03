@@ -67,8 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkjjkamal123&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2d7ff9&title_color=2d7ff9&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkjjkamal123&layout=compact&hide_border=true&theme=tokyonight&title_color=2d7ff9&langs_count=8" alt="Top languages" />
+  
 </p>
 
 <p align="center">
@@ -76,13 +75,5 @@
 </p>
 
 ---
-
-<h3 align="center">🚀 Featured Project</h3>
-
-<p align="center">
-  <a href="https://github.com/kkjjkamal123/Complete-Habit-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkjjkamal123&repo=Complete-Habit-Tracker&hide_border=true&theme=tokyonight&title_color=2d7ff9&icon_color=2d7ff9" alt="DailyTrack" />
-  </a>
-</p>
 
 <p align="center"><i>Available for opportunities — let's build something that touches the real world.</i></p>
