@@ -12,8 +12,7 @@
 ### 🚀 About me
 
 - 🛰️ &nbsp;**Thermal Engineer @ ULOG3** — R&D on thermal management & battery systems for **CubeSat** platforms
-- 🛩️ &nbsp;Building a **rocket** from airframe to telemetry, plus real-time **road-anomaly detection** (ARM Bharath Challenge 2026)
-- 🏆 &nbsp;**4× hackathon wins** — 1st @ AIcon24 (₹15k) · 1st & 3rd @ Camri · Top 40 Lam Research · Top 8 AMD Slingshot
+- 🛩️ &nbsp;Building a **Rocket** from airframe to telemetry
 - 🎓 &nbsp;B.E. Electronics & Communication @ **Chennai Institute of Technology**
 - 💬 &nbsp;Ask me about **embedded systems, computer vision, AI & aerospace**
 - 📫 &nbsp;Reach me at **kkjjwork123@gmail.com**
