@@ -32,7 +32,7 @@
 ### 🛠️ Tech &amp; Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,raspberrypi,linux,git,github,react,firebase&perline=10" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ansys,raspberrypi,linux,pixhawk,github,firebase&perline=10" alt="Core stack" />
 </p>
 
 <p align="center"><b>Embedded &amp; Robotics</b></p>
