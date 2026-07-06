@@ -15,7 +15,7 @@
 - 🛩️ &nbsp;Building a **Rocket** from airframe to telemetry
 - 🎓 &nbsp;B.E. Electronics & Communication @ **Chennai Institute of Technology**
 - 💬 &nbsp;Ask me about **embedded systems, computer vision, AI & aerospace**
-- 📫 &nbsp;Reach me at **kkjjwork123@gmail.com**
+- ✨ &nbsp;Check me out at **kkjj.me**
 
 ---
 
