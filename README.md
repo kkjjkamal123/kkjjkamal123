@@ -73,6 +73,7 @@
   <img src="https://streak-stats.demolab.com?user=kkjjkamal123&hide_border=true&theme=tokyonight&ring=2d7ff9&fire=6366f1&currStreakLabel=2d7ff9" alt="Streak" width="62%" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=kkjjkamal123&style=for-the-badge)
 ---
 
 <p align="center"><i>Available for opportunities — let's build something that touches the real world.</i></p>
