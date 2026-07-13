@@ -76,4 +76,4 @@
 ![](https://komarev.com/ghpvc/?username=kkjjkamal123&style=for-the-badge)
 ---
 
-<p align="center"><i>Available for opportunities — let's build something that touches the real world.</i></p>
+<p align="center"><i>Let's build something that touches the real world.</i></p>
